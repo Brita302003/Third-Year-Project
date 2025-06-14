@@ -15,7 +15,9 @@ Additional, green pixel counts were also included from phase 1. All the numerica
 Once the area was classified accordingly, an impact analysis was conducted on factors such as: Crop, Local Climate, Soil. Finally, the parameters including Rate of Deforestation, Total Area Lost, Hotspot, Human activity causes and Infrastructure Development causes were visually represent in a Map.
 
  Tools Used: QGIS
+ 
  Languages: Python, HTML,CSS,JavaScript
+ 
  Data Sources: Google Earth Engine, Open Building, NASA Power etc.
  
  
