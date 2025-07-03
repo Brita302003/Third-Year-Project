@@ -20,6 +20,7 @@ Once the area was classified accordingly, an impact analysis was conducted on fa
  
  Data Sources: Google Earth Engine, Open Building, NASA Power etc.
 
+ARCHITECTURE DIAGRAM
  ![Image](https://github.com/user-attachments/assets/4c343a71-dc43-4509-b5c3-81d9aa7ebac5)
  
  
